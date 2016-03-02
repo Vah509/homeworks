@@ -7,7 +7,7 @@
         h1{
             font-size: 140%;
             font-family: Verdana;
-            color: #333333;
+            color: #999999;
         }
         h3{
             font-size: 90%;
@@ -21,7 +21,7 @@
         }
     </style>
 </head>
-<body>"
+<body>
     <?php
 // данные резюме
     $my_Name="Вахтанг";
