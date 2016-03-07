@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb1daf5-c11f-45b6-814e-3d55f54f849b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_homeworks/index.php" afterPath="$PROJECT_DIR$/cv_homeworks/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homeworks_3/Part_1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homeworks_3/Part_1/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="homeworks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,45 +25,38 @@
     <favorites_list name="homeworks" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cv_homeworks/index.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49741825">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state vertical-scroll-proportion="-0.65384614">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
               <folding>
-                <marker date="1456948856352" expanded="true" signature="38:57" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1501" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1502" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1517" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1548" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1549" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1604" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1605" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1648" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1649" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1677" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1480:1681" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1731:1744" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1731:1745" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1731:1779" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1731:1812" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1731:1813" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1731:1843" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:1892" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:1893" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:1920" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:1921" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:1947" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:1967" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:1968" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="1879:2115" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="2153:2425" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="2455:2468" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="2455:2469" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="2455:2504" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="2455:2560" placeholder="..." />
-                <marker date="1456948856352" expanded="true" signature="2455:2570" placeholder="..." />
+                <element signature="n#select#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#select#1;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#select#2;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/users.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.02910959">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1538463">
+              <caret line="88" column="86" selection-start-line="88" selection-start-column="86" selection-end-line="88" selection-end-column="86" />
+              <folding>
+                <element signature="e#6#89#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,6 +97,8 @@
         <option value="$PROJECT_DIR$/cv_homeworks/CV.php" />
         <option value="$PROJECT_DIR$/cv_homeworks/CV.html" />
         <option value="$PROJECT_DIR$/cv_homeworks/index.php" />
+        <option value="$PROJECT_DIR$/Homeworks_3/Part_1/index.html" />
+        <option value="$PROJECT_DIR$/Homeworks_3/Part_1/register.php" />
       </list>
     </option>
   </component>
@@ -173,21 +170,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="php_basics_tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homeworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homeworks" />
+              <option name="myItemId" value="Homeworks_3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cv_homeworks" />
+              <option name="myItemId" value="Part_1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,7 +191,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php" />
+    <property name="last_opened_file_path" value="D:/php_academy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -259,10 +246,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24158126" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -300,6 +287,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="n#select#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#select#1;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#select#2;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_homeworks/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_homeworks/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cv_homeworks/CV.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -463,42 +486,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_homeworks/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49741825">
+        <state vertical-scroll-proportion="0.51699466">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1538463">
+          <caret line="88" column="86" selection-start-line="88" selection-start-column="86" selection-end-line="88" selection-end-column="86" />
           <folding>
-            <marker date="1456948856352" expanded="true" signature="38:57" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1501" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1502" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1517" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1548" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1549" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1604" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1605" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1648" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1649" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1677" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1480:1681" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1731:1744" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1731:1745" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1731:1779" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1731:1812" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1731:1813" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1731:1843" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:1892" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:1893" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:1920" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:1921" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:1947" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:1967" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:1968" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="1879:2115" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="2153:2425" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="2455:2468" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="2455:2469" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="2455:2504" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="2455:2560" placeholder="..." />
-            <marker date="1456948856352" expanded="true" signature="2455:2570" placeholder="..." />
+            <element signature="e#6#89#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="n#select#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#select#1;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#select#2;n#td#1;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks_3/Part_1/users.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02910959">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
